@@ -1,0 +1,10 @@
+if (1) {
+  printf("Hola");
+} else {
+  printf("Adiós");
+}
+return;
+
+
+
+
